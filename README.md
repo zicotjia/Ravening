@@ -1,5 +1,14 @@
 # Ravening
 
+## Links
+Executable: [Google Drive](https://drive.google.com/file/d/1FHFfir0zG0Q_3iTnH1Da-J7rNmr60Zqx/view?usp=sharing)
+
+## Git Pull Instructions
+There may be a bug when doing a fresh clone. Please follow the below instructions to clone the repo from Gitlab instead.
+```
+git clone https://gitlab.com/zicotjia/Ravening
+```
+
 ## Abstract
 Ravening is a Loot and Scoot Game featuring an Isometric Camera angle, procedurally generated dungeon and multiple entities variety. The goals of the game is amass wealth by finding treasures and survive until you can find merchant to sell your loots.
 
@@ -11,3 +20,7 @@ The dungeon has its own magic. The space between floors is convoluted, entering 
 The mysterious dungeon piqued the interest of the merchant guild. With a base camp in the entrance of the dungeon, the merchant guild has set up an extensive network of camps on multiple floors and established its own transport system within the dungeon despite the convoluted space. They buy loot and sell gear to adventurers. Adventurers try to conquer the dungeon, find loot and riches. They are referred to as ravens. This creates an ecosystem where adventurers explore and find loot and merchants buy and sell goods to the adventurers.
 
 You, a newbie raven, walk into the dungeon hoping to find fortune. Explore a procedurally generated dungeon, acquire loots, avoid dangers and trade your loots with merchant.
+
+## Gameplay Video
+https://github.com/user-attachments/assets/51281a03-52c2-4708-8303-74ec852a8a2a
+
